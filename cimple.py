@@ -1,5 +1,3 @@
-# Tilemachos Markos Bazakas 3281 cse63281
-# Vasileios Ntontis 3300 cse63300
 import sys
 
 wordid = 0
